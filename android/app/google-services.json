@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "419749700724",
+    "project_id": "helpzter-69822",
+    "storage_bucket": "helpzter-69822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419749700724:android:4d0e0113daeed12ff6dd21",
+        "android_client_info": {
+          "package_name": "com.helpzter.sitter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419749700724-bd8n6u7b26uob45g1t1hhshn4pl2il4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helpzter.sitter_app",
+            "certificate_hash": "eed1b1408ba7eb9e6c15f6d3293ed2501c9e3ec3"
+          }
+        },
+        {
+          "client_id": "419749700724-epdmvq5q960s7c6huf9uqiqpu5ve34av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helpzter.sitter_app",
+            "certificate_hash": "cb9af4452d8390b10d48e13de37085dcc125d2f0"
+          }
+        },
+        {
+          "client_id": "419749700724-rcp3kk5lm0nkks90v26pn8rofcbhappi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.helpzter.sitter_app",
+            "certificate_hash": "ec8fd1ee85ced0f0fcfab7508817ef520b0333ad"
+          }
+        },
+        {
+          "client_id": "419749700724-palep7h47t8dv5to1qvio3lt0qq9okkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGuVsed74zzPON_d8eaq1iGV_khoG_PQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419749700724-palep7h47t8dv5to1qvio3lt0qq9okkv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419749700724-fkris3oea2ean413emp1tnelcsbk118e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sitterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

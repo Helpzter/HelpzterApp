@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>419749700724-fkris3oea2ean413emp1tnelcsbk118e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.419749700724-fkris3oea2ean413emp1tnelcsbk118e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>419749700724-bd8n6u7b26uob45g1t1hhshn4pl2il4v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC255843TD71BfDa5urqi1AOAGKfQjBKZU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>419749700724</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.sitterApp</string>
+	<key>PROJECT_ID</key>
+	<string>helpzter-69822</string>
+	<key>STORAGE_BUCKET</key>
+	<string>helpzter-69822.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:419749700724:ios:7edff0ceb76f48aaf6dd21</string>
+</dict>
+</plist>

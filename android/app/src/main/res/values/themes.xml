@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="sqip.Theme.CardEntry" parent="sqip.Theme.BaseCardEntry">
+        <item name="colorPrimary">@color/rose_pink</item>
+        <item name="colorPrimaryDark">@color/rose_pink_7</item>
+        <item name="colorAccent">@color/rose_pink</item>
+    </style>
+<!--    <style name="AppSquare" parent="Theme.AppCompat">-->
+<!--        <item name="colorPrimary">@color/white</item>-->
+<!--        <item name="colorPrimaryDark">@color/grey</item>-->
+<!--        <item name="colorAccent">@color/rose_pink</item>-->
+<!--    </style>-->
+
+<!--    <style name="sqip.Theme.CardEntry" parent="AppSquare">-->
+<!--        <item name="sqipActivityTitle">@string/header_text</item>-->
+<!--&lt;!&ndash;        <item name="sqipSaveButtonText">@string/pay_button</item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="buttonStyle">@style/CustomButton</item>&ndash;&gt;-->
+<!--        <item name="android:windowBackground">@color/white</item>-->
+<!--&lt;!&ndash;        <item name="android:fontFamily">Quicksand-Regular</item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="android:homeAsUpIndicator">@drawable/back_button_small</item>&ndash;&gt;-->
+<!--    </style>-->
+<!--    <style name="sqip.Theme.sqipActivityTitle" parent="AppSquare">-->
+<!--        <item name="android:windowBackground">@color/rose_pink</item>-->
+<!--        <item name="android:textColorHint">@color/rose_pink</item>-->
+<!--    </style>-->
+
+</resources>
